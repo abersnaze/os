@@ -1,0 +1,7 @@
+{
+    "name": "riscv",
+    "build": {
+        "dockerfile": "./Dockerfile"
+    },
+    "containerUser": "root"
+}
